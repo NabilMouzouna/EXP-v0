@@ -10,5 +10,5 @@ document.addEventListener('DOMContentLoaded', function() {
         setTimeout(function() {
             loaderWrapper.style.display = 'none';
         }, 500);
-    }, 2000);
+    }, 1000);
 });
