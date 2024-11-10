@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -82,7 +83,7 @@
     <section class="form-section">
         <div class="form-container">
             <h2 class="form-title">Book Your Demo Call</h2>
-            <form>
+            <form method="POST" action="form.php" >
                 <div class="form-group">
                     <label>Full Name</label>
                     <div class="input-icon">
