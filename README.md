@@ -47,6 +47,10 @@ This platform is for educational purposes only. The knowledge gained should be a
 - Implement defensive measures
 - Develop secure applications
 - Conduct authorized security assessments
+  
+## Contributors
+- [Nabil Mouzouna](https://github.com/NabilMouzouna)
+- [Anas Magane](https://github.com/Anas-Magane)
 
 ## 💡 Contributing
 Feel free to suggest improvements or report issues to help enhance this learning environment.
